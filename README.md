@@ -47,7 +47,7 @@ To run the code and reproduce the analysis, follow these steps:
 ## Data
 The dataset to be used is Syria Customer Churn from: https://www.kaggle.com/datasets/becksddf/churn-in-telecoms-dataset
 This is a classification problem because, churn, the target variable is boolean whic we will convert to binary values(0 and 1). 
-The dataset is located in the `data` directory. It contains information about customers, their usage patterns, and whether they have churned or not. The dataset is provided in CSV format.
+The dataset is Customer_churn.csv above. It contains information about customers, their usage patterns, and whether they have churned or not. The dataset is provided in CSV format.
 
 ## Modeling
 
