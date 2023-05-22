@@ -1,6 +1,4 @@
 # Customer-Churn-Analysis
-# Customer Churn Analysis
-
 This repository contains code and resources for analyzing customer churn in the telecommunications industry. The goal of this project is to develop a predictive model that can identify customers who are likely to churn, allowing the company to take proactive measures to retain those customers.
 
 ## Table of Contents
@@ -55,7 +53,7 @@ The modeling process involves building a predictive model to classify customers 
 
 ## Evaluation
 
-The evaluation of the models is based on several metrics, including accuracy, F1 score, recall, and precision. The performance of the models is compared, and the most suitable model is selected.
+The evaluation of the models is based on several metrics, including accuracy, F1 score, recall, and precision. The performance of the models is compared, and the most suitable model is selected. 
 
 ## Contributing
 
