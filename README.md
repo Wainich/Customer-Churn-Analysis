@@ -3,7 +3,7 @@ This repository contains code and resources for analyzing customer churn in the 
 
 ## Table of Contents
 
-- [Business Overview](#Business Overview)
+- Business Overview
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
