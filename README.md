@@ -3,7 +3,7 @@ This repository contains code and resources for analyzing customer churn in the 
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Business Overview](#business-overview)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Data](#data)
@@ -12,7 +12,7 @@ This repository contains code and resources for analyzing customer churn in the 
 - [Contributing](#contributing)
 - [License](#license)
 
-## Introduction
+## Business Overview
 
 Syria Tel Company is a telecommunications company providing various services such as mobile, internet, and landline connections to customers in Syria. Customer churn, which is defined as customers quitting a service or transferring to a rival, is a worry for the business. Because it affects sales and client loyalty, churn is a major problem for the business. Your objective is to create a prediction model that can spot clients who are most likely to leave, allowing the business to take preventative action to keep them.
 
